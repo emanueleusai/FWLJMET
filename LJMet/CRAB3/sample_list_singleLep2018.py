@@ -172,3 +172,12 @@ fourtopsbkgdict['W4JetsToLNu'] = '/W4JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8
 mvattbardict = {}
 mvattbardict['TTJetsSingleLepT'] = '/TTJets_SingleLeptFromT_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM'
 mvattbardict['TTJetsSingleLepTb'] = '/TTJets_SingleLeptFromTbar_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM'
+
+fourtops_sigext_dict={}
+fourtops_ttext_dict={}
+fourtops_sigext_dict['TTTText'] = '/TTTT_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext2-v1/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_TuneCP5down'] = '/TTToSemiLepton_HT500Njet9_TuneCP5down_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_TuneCP5up'] =   '/TTToSemiLepton_HT500Njet9_TuneCP5up_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_hdampUP'] =     '/TTToSemiLepton_HT500Njet9_hdampUP_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_hdampDOWN'] =   '/TTToSemiLepton_HT500Njet9_hdampDOWN_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM'
+

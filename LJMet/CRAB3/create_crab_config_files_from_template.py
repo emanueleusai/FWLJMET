@@ -147,6 +147,22 @@ if __name__=='__main__':
  		  DOGENHT='False',
                 )
 
+
+        create_crab_config_files_from_template(
+                sample.fourtops_sigext_dict,
+                ISMC='True',
+                ISVLQSIGNAL='False',
+                ISTTBAR='False',
+ 		  DOGENHT='False',
+                )
+        create_crab_config_files_from_template(
+                sample.fourtops_ttext_dict,
+                ISMC='True',
+                ISVLQSIGNAL='False',
+                ISTTBAR='True',
+ 		  DOGENHT='False',
+                )
+
 	#### VLQ signal MC
 	create_crab_config_files_from_template(
 		sample.signaldict,

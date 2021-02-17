@@ -158,4 +158,10 @@ fourtopsbkgdict['W2JetsToLNu'] = '/W2JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8
 fourtopsbkgdict['W3JetsToLNu'] ='/W3JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM'
 fourtopsbkgdict['W4JetsToLNu'] ='/W4JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM'
 
-
+fourtops_sigext_dict={}
+fourtops_ttext_dict={}
+fourtops_sigext_dict['TTTText'] = '/TTTT_TuneCP5_PSweights_13TeV-amcatnlo-pythia8_correctnPartonsInBorn/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_TuneCP5down'] = '/TTToSemiLepton_HT500Njet9_TuneCP5down_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_TuneCP5up'] =   '/TTToSemiLepton_HT500Njet9_TuneCP5up_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_hdampUP'] =     '/TTToSemiLepton_HT500Njet9_hdampUP_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM'
+fourtops_ttext_dict['TTToSemiLepton_HT500Njet9_hdampDOWN'] =   '/TTToSemiLepton_HT500Njet9_hdampDOWN_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM'
